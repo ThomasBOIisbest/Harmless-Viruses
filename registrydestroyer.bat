@@ -1,5 +1,5 @@
  WARNING: This code will destroy your operating system's registry key making it unrecoverable and unusable. Highly recomend running this on a Virtual 
- Machine. I am not responsible for ahy damages. Use at your own risk.
+ Machine. I am not responsible for any damages. Use at your own risk.
  
  -----------------------------------------
  
